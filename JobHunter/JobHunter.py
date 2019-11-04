@@ -1,7 +1,7 @@
 # This script pulls from a job website and stores positions into a database. If there is a new posting it notifies the user.
 #CNA 330 2nd quarter
-#This script pulls from a job website and stores positions into a database. If there is a new posting it notifies the user.
-# I work with groups & Gabe And Abdu Mohammed
+.
+# I work with groups & Gabe And Abdu Mohammed, 
 #jobhunter Assignment
 #Samuel Lian slian@Student.rtc.edu
 import mysql.connector
