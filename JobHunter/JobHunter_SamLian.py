@@ -1,6 +1,6 @@
 # This script pulls from a job website and stores positions into a database. If there is a new posting it notifies the user.
 # CNA 330
-# Zachary Rubin, zrubin@rtc.edu
+# samuel lian, slian@gmail.com
 import mysql.connector
 import sys
 import json
